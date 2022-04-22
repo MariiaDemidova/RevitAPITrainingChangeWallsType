@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Users\marve\YandexDisk\Autodesk_ITMO_2021\Revit API\Training\RevitAPITrainingChangeWallsType.dll"</Assembly>
+		<AddInId>7AA8A710-78A1-4C76-93FB-A7A1B0EB308A</AddInId>
+		<FullClassName>RevitAPITrainingChangeWallsType.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>RevitAPITrainingChangeWallsType</Text>
+	</AddIn>
+</RevitAddIns>
